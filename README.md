@@ -15,7 +15,7 @@
   ## About Me
 <ul>
   <li>🎓 I'm studying for a bachelor’s degree in Software Engineering at FPT University (Undergraduate).</li>
-  <li>🎮 I’ve made some fun games in Unreal Engine in my free time.</li>
+  <li>🎮 I’ve made some fun games using Unity Engine during my free time.</li>
   <li>💻 I'm a passionate software engineer, and I aspire to create software that solves real-world problems.</li>
 </ul>
 
@@ -84,6 +84,7 @@
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
     <a href="#"><img alt="CISCO" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"></a>
 </p>
   
 ## Connect with Me:
