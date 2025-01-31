@@ -24,7 +24,7 @@
   ## Contribution Streak
 
 <p align="center">
-    <img title="Github contribution streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats"/>
+    <img title="Github contribution streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)"/>
 </p>
   
 <br/><br/>
