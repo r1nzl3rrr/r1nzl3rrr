@@ -21,11 +21,9 @@
 
 
   
-  ## Contribution Streak
+## Contribution Streak
 
-<p align="center">
-    <img title="Github contribution streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=r1nzl3rrr&theme=dark)](https://git.io/streak-stats)"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=r1nzl3rrr&theme=dark)](https://git.io/streak-stats)
   
 <br/><br/>
   
