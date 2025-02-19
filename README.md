@@ -24,7 +24,7 @@
 ## Contribution Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r1nzl3rrr&theme=dark"/></a>  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=r1nzl3rrr&theme=vue)](https://git.io/streak-stats)
 </p>
   
 <br/><br/>
